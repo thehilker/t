@@ -1,8 +1,8 @@
-title: Lorem Ipsum
+title: Tyler Hilker
 email: email@example.com
-description: Lorem Ipsum's website
-url: "https://example.org"
-twitter: usernamewithoutatsymbol
+description: Tyler Hilker's personal website
+url: "https://tylerhilker.com"
+twitter: thehilker
 
 baseurl: ""
 permalink: /:categories/:title:output_ext
